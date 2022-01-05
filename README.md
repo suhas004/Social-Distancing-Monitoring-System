@@ -12,3 +12,8 @@ I have used YOLOv3  based object detection model(With DARKNET CNN Architecture) 
 
 # Demo - Video
 ![output](https://user-images.githubusercontent.com/53111813/104739223-7c64d700-576c-11eb-9b61-0728761ec2d8.gif)
+
+
+Collaborators
+- Suhas Sasetty
+- Vamshi Reddy
