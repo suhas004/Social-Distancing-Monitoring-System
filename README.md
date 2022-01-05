@@ -15,5 +15,5 @@ I have used YOLOv3  based object detection model(With DARKNET CNN Architecture) 
 
 
 Collaborators
+- K.Vamshi Reddy
 - Suhas Sasetty
-- Vamshi Reddy
